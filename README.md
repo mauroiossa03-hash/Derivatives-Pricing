@@ -1,5 +1,5 @@
 # DERIVATIVES-PRICING
-This repository contains code I wrote to price various derivatives. While the exercises are largely based on textbook problems, they reflect the kind of critical thinking that decision-making under uncertainty requires.
+This repository contains code I wrote to price various derivatives. While the exercises are largely based on textbook problems, they reflect the kind of critical thinking that decision-making under uncertainty requires.                                                     
 Although there is no reference to theory, the goal is to let the reader understand my pricing and coding skills — so feel free to reach out with any sensitivity-analysis questions, such as how and why the Greeks behave over time, how and why option prices respond to changes in their parameters, etc.
 
 I used MATLAB for its general simplicity and built-in financial functions. To run a script, open it in MATLAB, set the input parameters at the top, and run.
@@ -17,6 +17,6 @@ Annotations regarding option pricing:
 -Sigma is the volatility;
 -Sigma_imp is the implied volatility;
 -The Greeks are referred to with their respective name (e.g. delta is called delta)
-
+                                                                               
 Annotations regarding swaps pricing:
 - rates
